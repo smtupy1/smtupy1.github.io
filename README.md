@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-   Sam Tupy
+   <title>Sam Tupy</Title>
 </head>
 <body>
 </body>
